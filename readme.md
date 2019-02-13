@@ -53,3 +53,9 @@ Create a new post:
 ## Licence
 
 Please refer to the [Laravel licence](https://opensource.org/licenses/MIT)
+
+git add .
+git commit --amend
+git remote set-url origin https://github.com/manhngg/shop_laravel.git
+git push -u origin --all
+history 
